@@ -1,0 +1,14 @@
+C:\Users\Orkun\source\repos\Pratik-Yol Arkadaşi-Tatil uygulamasi\Pratik-Yol Arkadaşi-Tatil uygulamasi\bin\Debug\net8.0\Pratik-Yol Arkadaşi-Tatil uygulamasi.exe
+C:\Users\Orkun\source\repos\Pratik-Yol Arkadaşi-Tatil uygulamasi\Pratik-Yol Arkadaşi-Tatil uygulamasi\bin\Debug\net8.0\Pratik-Yol Arkadaşi-Tatil uygulamasi.deps.json
+C:\Users\Orkun\source\repos\Pratik-Yol Arkadaşi-Tatil uygulamasi\Pratik-Yol Arkadaşi-Tatil uygulamasi\bin\Debug\net8.0\Pratik-Yol Arkadaşi-Tatil uygulamasi.runtimeconfig.json
+C:\Users\Orkun\source\repos\Pratik-Yol Arkadaşi-Tatil uygulamasi\Pratik-Yol Arkadaşi-Tatil uygulamasi\bin\Debug\net8.0\Pratik-Yol Arkadaşi-Tatil uygulamasi.dll
+C:\Users\Orkun\source\repos\Pratik-Yol Arkadaşi-Tatil uygulamasi\Pratik-Yol Arkadaşi-Tatil uygulamasi\bin\Debug\net8.0\Pratik-Yol Arkadaşi-Tatil uygulamasi.pdb
+C:\Users\Orkun\source\repos\Pratik-Yol Arkadaşi-Tatil uygulamasi\Pratik-Yol Arkadaşi-Tatil uygulamasi\obj\Debug\net8.0\Pratik-Yol Arkadaşi-Tatil uygulamasi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Orkun\source\repos\Pratik-Yol Arkadaşi-Tatil uygulamasi\Pratik-Yol Arkadaşi-Tatil uygulamasi\obj\Debug\net8.0\Pratik-Yol Arkadaşi-Tatil uygulamasi.AssemblyInfoInputs.cache
+C:\Users\Orkun\source\repos\Pratik-Yol Arkadaşi-Tatil uygulamasi\Pratik-Yol Arkadaşi-Tatil uygulamasi\obj\Debug\net8.0\Pratik-Yol Arkadaşi-Tatil uygulamasi.AssemblyInfo.cs
+C:\Users\Orkun\source\repos\Pratik-Yol Arkadaşi-Tatil uygulamasi\Pratik-Yol Arkadaşi-Tatil uygulamasi\obj\Debug\net8.0\Pratik-Yol Arkadaşi-Tatil uygulamasi.csproj.CoreCompileInputs.cache
+C:\Users\Orkun\source\repos\Pratik-Yol Arkadaşi-Tatil uygulamasi\Pratik-Yol Arkadaşi-Tatil uygulamasi\obj\Debug\net8.0\Pratik-Yol Arkadaşi-Tatil uygulamasi.dll
+C:\Users\Orkun\source\repos\Pratik-Yol Arkadaşi-Tatil uygulamasi\Pratik-Yol Arkadaşi-Tatil uygulamasi\obj\Debug\net8.0\refint\Pratik-Yol Arkadaşi-Tatil uygulamasi.dll
+C:\Users\Orkun\source\repos\Pratik-Yol Arkadaşi-Tatil uygulamasi\Pratik-Yol Arkadaşi-Tatil uygulamasi\obj\Debug\net8.0\Pratik-Yol Arkadaşi-Tatil uygulamasi.pdb
+C:\Users\Orkun\source\repos\Pratik-Yol Arkadaşi-Tatil uygulamasi\Pratik-Yol Arkadaşi-Tatil uygulamasi\obj\Debug\net8.0\Pratik-Yol Arkadaşi-Tatil uygulamasi.genruntimeconfig.cache
+C:\Users\Orkun\source\repos\Pratik-Yol Arkadaşi-Tatil uygulamasi\Pratik-Yol Arkadaşi-Tatil uygulamasi\obj\Debug\net8.0\ref\Pratik-Yol Arkadaşi-Tatil uygulamasi.dll
